@@ -1,0 +1,7 @@
+git clone link - to clone 
+git status -s :- To check the status of each file
+Status can be :- ?? which means not added; A means appended; M means Modified; Whenever in red add that file 
+git commit -m "write comment here"
+git add filename :- Adds the file 
+git push -u origin master :- pushes file into master branch 
+git pull origin master :- fetches and pulls the files 
