@@ -6,3 +6,7 @@ git add filename :- Adds the file
 git push -u origin master :- pushes file into master branch 
 git pull origin master :- fetches and pulls the files 
 You can add a branch too
+git branch - tells how many branches u have
+git branch dev :- here dev is the name of a branch I want to add, name can be anything
+git checkout branchname :- will point towards the branchname 
+
