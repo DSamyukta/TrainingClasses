@@ -5,3 +5,4 @@ git commit -m "write comment here"
 git add filename :- Adds the file 
 git push -u origin master :- pushes file into master branch 
 git pull origin master :- fetches and pulls the files 
+You can add a branch too
